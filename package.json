@@ -1,0 +1,20 @@
+{
+  "name": "SV-Course",
+  "version": "1.0.0",
+  "description": "Homeworks for SV-Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupusanschi27/SV-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupusanschi27/SV-Course/issues"
+  },
+  "homepage": "https://github.com/lupusanschi27/SV-Course#readme"
+}
